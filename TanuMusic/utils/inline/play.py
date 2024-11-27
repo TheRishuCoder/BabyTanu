@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="ᴜᴘᴅᴀᴛᴇ",
 
-                url=f"t.me/C0DE_SEARCH",
+                url=f"t.me/ur_rishu_143",
 
             ),
             InlineKeyboardButton(
 
                 text="sᴜᴘᴘᴏʀᴛ",
 
-                url=f"t.me/AsuraaSupports",
+                url=f"t.me/ur_support07",
 
             ),
         ],
@@ -98,14 +98,14 @@ def stream_markup(_, chat_id):
 
                 text="ᴜᴘᴅᴀᴛᴇ",
 
-                url=f"t.me/C0DE_SEARCH",
+                url=f"t.me/ur_rishu_143",
 
             ),
             InlineKeyboardButton(
 
                 text="sᴜᴘᴘᴏʀᴛ",
 
-                url=f"t.me/AsuraaSupports",
+                url=f"t.me/ur_support07",
 
             ),
         ],
