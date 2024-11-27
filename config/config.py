@@ -11,16 +11,16 @@ API_ID = getenv("API_ID", None)
 API_HASH = getenv("API_HASH", None)
 
 #❖ Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "itzAsuraa")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "rishu1286")
 
 #❖  Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME", "vip_music_vc_bot")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "TANU MUSIC")
+BOT_NAME = getenv("BOT_NAME", "RISHU MUSIC")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "TANU_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "rishu_music")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -31,9 +31,9 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 
 #❖  Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002100219353"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001992970818"))
 
-#❖ Get this value from @MissRose_bot on Telegram by /id
+#❖ Get this value from on Telegram by /id
 OWNER_ID = getenv("OWNER_ID", "5738579437")
 
 #❖  Your heroku app name
@@ -81,7 +81,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 #❖ Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 
-#❖ Get your pyrogram v2 session from @StringFatherBot on Telegram
+#❖ Get your pyrogram v2 session from on Telegram
 STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
