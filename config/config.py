@@ -55,7 +55,7 @@ GIT_TOKEN = getenv(
 
 #❖ Make your bots privacy from telegra.ph and put your url here
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "https://graph.org/Privacy-Policy-for-Tanu-Music-11-26"
+    "PRIVACY_LINK", "https://t.me/ur_rishu_143"
 )
 
 
