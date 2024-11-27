@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", None)
 OWNER_USERNAME = getenv("OWNER_USERNAME", "itzAsuraa")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "TanuMusicxBot")
+BOT_USERNAME = getenv("BOT_USERNAME", "vip_music_vc_bot")
 
 #❖  Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "TANU MUSIC")
@@ -34,7 +34,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002100219353"))
 
 #❖ Get this value from @MissRose_bot on Telegram by /id
-OWNER_ID = getenv("OWNER_ID", "7453278496")
+OWNER_ID = getenv("OWNER_ID", "5738579437")
 
 #❖  Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/itzAsuraa/TanuMusic",
+    "https://github.com/TheRishuCoder/BabyTanu",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
@@ -59,8 +59,8 @@ PRIVACY_LINK = getenv(
 )
 
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/C0DE_SEARCH")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AsuraaSupports")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ur_rishu_143")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ur_support07")
 
 #❖ Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
