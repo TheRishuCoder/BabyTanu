@@ -50,12 +50,12 @@ async def init():
         pass
     await Tanu.decorators()
     LOGGER("TanuMusic").info(
-        "❖ Created By ➥ The Captain...🐝"
+        "❖ Created By ➥ Rishu...❤️‍🩹"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("TanuMusic").info("❖ Stopping Tanu Music Bot...💌")
+    LOGGER("TanuMusic").info("❖ Stopping Rishu Music Bot...💌")
 
 
 if __name__ == "__main__":
